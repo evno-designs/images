@@ -1,2 +1,2 @@
-# images-to-link
+# images_to_link
 pictures to link
