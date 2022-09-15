@@ -1,2 +1,2 @@
-# picture
+# images
 pictures to link
